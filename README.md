@@ -15,7 +15,9 @@ Growth Opportunities - I struggle understanding/reading people's code quickly so
 Through this review process, I've identified these areas for continued learning: 
 
 Topic/Concept 1: Inheritance, sometimes even though the code is right(ish) there could be a compile error because it doesn't see everything correctly, and that could be a bit confusing
+
 Topic/Concept 2: 2D arrays, while a simple concept, flipping through it and changing stuff in it could be a bit confusing, as doing .add or .remove moves all values a place 
+
 Programming practice: Practice harder topics such as Inheritance and 2D arrays once you've mastered simple things because you'll be using those simple things along with the more difficult things.
 # Resources
 Resources I found helpful during my exam preparation and review:
@@ -26,7 +28,7 @@ CodingBat: https://codingbat.com/java
 
 [Resource name and link]
 
-#Future Goals
+# Future Goals
 Moving forward, I plan to:
 
 Continue learning Java, and apply for college for a software engineering major.
