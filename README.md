@@ -11,7 +11,9 @@ My preparation strategy for the exam included attending the coding club and tuto
 The most challenging aspects of the exam were timing with the multiple choice, I found that pretty difficult to manage my time for the MCQ's however others found it much more manageable.
 Time management techniques that worked well for me was, reading the questions first and trying to stay above 2 minutes per question.
 Mental strategies I used when encountering difficult questions was to first read the questions to figure out what you need to do, because some questions while seeming hard and giving you a lot of information, were asking for something simple and quick.
+
 Growth Opportunities - I struggle understanding/reading people's code quickly so I could work on that to also work on my time management better.
+
 Through this review process, I've identified these areas for continued learning: 
 
 Topic/Concept 1: Inheritance, sometimes even though the code is right(ish) there could be a compile error because it doesn't see everything correctly, and that could be a bit confusing
