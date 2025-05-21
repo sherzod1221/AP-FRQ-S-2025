@@ -21,9 +21,12 @@ Programming practice: Practice harder topics such as Inheritance and 2D arrays o
 Resources I found helpful during my exam preparation and review:
 
 JuiceMind: https://www.juicemind.com/
+
 CodingBat: https://codingbat.com/java
+
 [Resource name and link]
-Future Goals
+
+#Future Goals
 Moving forward, I plan to:
 
 Continue learning Java, and apply for college for a software engineering major.
